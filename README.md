@@ -9,10 +9,10 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/852656822581461013)](https://discord.com/users/852656822581461013)
 
 ## GitHub:
-<a href="https://github.com/MonkDev-Oficial" alt="https://github.com/MonkDev-Oficial"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=MonkDev-Oficial&color=000000&logo=GitHub"></a>
-<img src="https://img.shields.io/github/license/MonkDev-Oficial/systems-for-djs?style=for-the-badge">
+<a href="https://github.com/byledev" alt="https://github.com/byledev"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=byledev&color=000000&logo=GitHub"></a>
+<img src="https://img.shields.io/github/license/byledev/systems-for-djs?style=for-the-badge">
 
-![Repo-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MonkDev-Oficial&theme=dark)
+![Repo-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=byledev&theme=dark)
 
 ## Herramientas
 <h4>Sistemas:</h4>
