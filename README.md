@@ -8,13 +8,12 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/852656822581461013)](https://discord.com/users/852656822581461013)
 
-## GitHub:
+### GitHub:
 <a href="https://github.com/byledev" alt="https://github.com/byledev"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=byledev&color=000000&logo=GitHub"></a>
 <img src="https://img.shields.io/github/license/byledev/systems-for-djs?style=for-the-badge">
 
-![Repo-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=byledev&theme=dark)
 
-## Herramientas
+### Herramientas:
 <h4>Sistemas:</h4>
 <div>
 <img src="https://img.shields.io/badge/Windows-7-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
