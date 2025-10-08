@@ -1,16 +1,16 @@
 ## Sobre mi:
 
-- 👋 Hola, soy @byledev
-- 👀 Soy desarrollador javascript/nodejs
-- 🌱 Tengo experencia usando herramientas/modulos de javascript.
+- 👋 Hola, soy @torvicper
+- 👀 Soy desarrollador typescript
+- 🌱 Tengo experencia usando herramientas/modulos de js/ts.
 
 ## Discord:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/852656822581461013)](https://discord.com/users/852656822581461013)
 
 ### GitHub:
-<a href="https://github.com/byledev" alt="https://github.com/byledev"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=byledev&color=000000&logo=GitHub"></a>
-<img src="https://img.shields.io/github/license/byledev/systems-for-djs?style=for-the-badge">
+<a href="https://github.com/torvicper" alt="https://github.com/torvicper"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=torvicper&color=000000&logo=GitHub"></a>
+<img src="https://img.shields.io/github/license/torvicper/systems-for-djs?style=for-the-badge">
 
 
 ### Herramientas:
